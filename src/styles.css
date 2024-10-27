@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+.navbar {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #24a2b8; 
+    padding: 10px 10px;
+    font-family: Arial, sans-serif;
+}
+
+.container-fluid {
+    align-items: left; /* Centra verticalmente */
+    margin-right: 0px; /* Espacio entre items */
+  }
+
+.text_tvseries{
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.div_table{
+    background-color: rgb(255, 255, 255);
+    margin-left:150px ;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+}
+.div_avg{
+    margin-left:150px ;
+}
+
